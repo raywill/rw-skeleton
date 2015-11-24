@@ -4,9 +4,9 @@ module.exports = {
 
   entry : {
     easyform : [
-      "./js/easyform.js",
       'webpack-dev-server/client?http://localhost:3000',
-      'webpack/hot/only-dev-server'
+      'webpack/hot/only-dev-server',
+      "./js/easyform.js",
     ]
   },
 
