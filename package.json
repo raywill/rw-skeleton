@@ -1,0 +1,38 @@
+{
+  "name": "rw-skeleton",
+  "version": "1.0.1",
+  "description": "raywill's module skeleton ",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-bootstrap": "^0.28.1",
+    "react-form": "0.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "css-loader": "^0.23.0",
+    "jsx-loader": "^0.13.2",
+    "react-hot-loader": "^1.3.0",
+    "style-loader": "^0.13.0",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raywill/rw-skeleton.git"
+  },
+  "keywords": [
+    "skeleton"
+  ],
+  "author": {
+    "name": "raywill"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raywill/rw-skeleton/issues"
+  }
+}
