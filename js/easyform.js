@@ -4,7 +4,7 @@ var ReactDOM = require('react-dom');
 var Game = React.createClass({
 
   startGame(words) {
-    
+     
   },
 
 
